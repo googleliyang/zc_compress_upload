@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:xuyaodegithub/compress-sub.git"
+    "url": "git@github.com:googleliyang/zc_compress_upload.git"
   },
   "dependencies": {
     "vue": "^2.5.11"
